@@ -1,0 +1,30 @@
+.product-table-container{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 300px;
+    border:3px solid yellow;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
+
+.category{
+    width: 98%;
+    border: 1px solid turquoise;
+    min-height: 20px;
+    margin-top: 10px;
+    text-align: inherit;
+}
+
+td{
+    text-align: center;
+    border: 2px solid gold;
+    width: 90%;
+    height: 0 auto;
+    columns: 3;
+    column-width: 0 auto;
+    color: gold;
+}
+
+
+

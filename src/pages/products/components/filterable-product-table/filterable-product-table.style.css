@@ -1,0 +1,6 @@
+.filterable-student-table-container{
+    width: 800px;
+    min-height: 650px;
+    margin: 0 auto;
+    border: 5px solid gold;
+}
