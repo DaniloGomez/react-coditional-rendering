@@ -1,7 +1,5 @@
 import React from 'react';
-import SchoolTable from '../product-table/product-table.comp';
-import './product-category.style.css';
-import ProductRow from '../Product-Row/product-row.comp';
+import './program-category.style.css';
 
 const ProductCategory = (props) => {
     return (

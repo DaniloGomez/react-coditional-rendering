@@ -1,7 +1,7 @@
 import React from 'react';
-import SchoolTable from '../product-table/product-table.comp';
+import SchoolTable from '../student-table-td/student-table.comp';
 import SearchBar from '../search-bar/search-bar.comp';
-import './filterable-product-table.style.css';
+import './filter-student-table.style.css';
 
 const FilterableProductTable = () => {
     return (

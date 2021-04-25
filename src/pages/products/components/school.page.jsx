@@ -1,8 +1,8 @@
 import React from 'react';
-import FilterableProductTable from './filterable-product-table/filterable-product-table.comp'
+import FilterableProductTable from './filter-students-table/filter-student-table.comp'
 import './school.page.style.css';
 
-const Productspage = () => {
+const SchoolPage = () => {
     return (
         <div>
             <h1>SCHOOL SYSTEM</h1>
@@ -10,4 +10,4 @@ const Productspage = () => {
         </div>
     );
 }
-export default Productspage;
+export default SchoolPage;

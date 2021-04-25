@@ -21,10 +21,17 @@ td{
     border: 2px solid gold;
     width: 90%;
     height: 0 auto;
-    columns: 3;
     column-width: 0 auto;
     color: gold;
 }
+.header{
+    text-align: center;
+    width: 55%;
+    height: 0 auto;
+    column-width: 0 auto;
+    color: gold;
+}
+
 
 
 
